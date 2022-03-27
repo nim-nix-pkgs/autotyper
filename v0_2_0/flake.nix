@@ -11,7 +11,6 @@
   inputs.src-autotyper-v0_2_0.ref   = "refs/tags/v0.2.0";
   inputs.src-autotyper-v0_2_0.owner = "kijowski";
   inputs.src-autotyper-v0_2_0.repo  = "autotyper";
-  inputs.src-autotyper-v0_2_0.dir   = "";
   inputs.src-autotyper-v0_2_0.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
